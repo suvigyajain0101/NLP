@@ -31,3 +31,5 @@ The Repo contains NLP related work
  3. Sequence Classification with Transformers
  4. Text Classification using TensorFlow
  5. Introduction to Transformers - Transformers101
+ 6. Keras Implementation of common NLP tasks
+ 7. Autograd implementation
